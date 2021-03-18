@@ -1,7 +1,6 @@
 # tetrica
-test for Tetrica
 
-Это задачи для тетрика.
+Это задачи для Тетрика.
 
 Task 1: test.py
 Task 2:wikiparsing.py

@@ -7,6 +7,7 @@
 недостаток по животным с некоторых букв
 
 
+
 """
 
 from bs4 import BeautifulSoup

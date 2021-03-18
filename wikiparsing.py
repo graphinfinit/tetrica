@@ -36,7 +36,6 @@ for letter in rus:
         if name.lower().startswith(letter):
             let.append(name)
         else:
-            print(f"{letter.upper()}:  {len(let)}")
             dict_names[letter] = len(let)
 
 print(dict_names)
